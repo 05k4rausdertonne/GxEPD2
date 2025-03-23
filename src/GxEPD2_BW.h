@@ -51,6 +51,7 @@
 
 #if __has_include("gdey/GxEPD2_370_GDEY037T03.h")
 #include "gdey/GxEPD2_370_GDEY037T03.h"
+#endif
 #if __has_include("epd/GxEPD2_102.h")
 #include "epd/GxEPD2_102.h"
 #endif
